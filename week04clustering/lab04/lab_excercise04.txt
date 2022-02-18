@@ -1,0 +1,3 @@
+Question 1: using the “classes to clusters evaluation”, run HierarchicalClusterer on the Iris data using single linkage and complete linkage. Which one led to better result? Can you explain why?
+
+Question 2: compare k-Means and HAC performance in clustering animals in the zoo data set. Which algorithm gave better result (based on Orange’s class-to-cluster accuracy measure), in what parameter setting?
