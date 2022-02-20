@@ -1,0 +1,11 @@
+Please upload your workflows and questions as prompted in-class.  These will not be graded, but will be assessed as part of your participation grade.  Although you will work in pairs, please upload your own copy of the lab work.
+1) Data aggregation
+Aggregate average fare for men and women in the Titanic data set. Submit your answer in blackboard.
+2) Data transformation 
+Choose a numeric variable in Titanic and transform it using discretization, log, zscore, and min-max transformation.
+Include all transformations as new variables.
+Submit your workflow
+3) Data Sampling
+Produce a random sample of 100 examples out of the Titanic data
+Produce a stratified sample of 100 examples of the titanic data
+Use the different visualizations to compare differences.  Do you see any?  Explain why or why not. Submit your workflow and answer.
