@@ -1,0 +1,1 @@
+Please use the decision tree to analyze the titanic data.  How well did it perform on the training data?  What percentage of individuals in the test data survived? Please upload your ows file (or notebook if that's what you used).
